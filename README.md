@@ -1,0 +1,1 @@
+# specmatic-hooks-java-sample
