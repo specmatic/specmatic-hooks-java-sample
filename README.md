@@ -1,6 +1,7 @@
 # specmatic-hooks-java-sample
 
-This is a sample project to demonstrate how to use [Specmatic hooks](https://specmatic.io/documentation/contract_tests.html#hooks) in Java.
+This project is a sample [Specmatic hook](https://docs.specmatic.io/documentation/contract_tests.html#hooks) that can be used with Specmatic to modify API specifications dynamically at runtime. 
+In this example, the hook demonstrates how to add extra headers to one of the API paths.
 
 ## Pre-requisites
 
